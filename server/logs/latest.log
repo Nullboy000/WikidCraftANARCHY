@@ -373,3 +373,60 @@
 [17:56:48] [Server thread/INFO]: [Nullboy: Set bi_demi_girl's game mode to Creative Mode]
 [17:58:26] [Server thread/INFO]: bi_demi_girl lost connection: Disconnected
 [17:58:26] [Server thread/INFO]: bi_demi_girl left the game.
+[18:02:33] [Server thread/INFO]: Nullboy lost connection: Disconnected
+[18:02:33] [Server thread/INFO]: Nullboy left the game.
+[18:02:34] [Thread-30/INFO]: UUID of player Nullboy is 524498c4-645b-3f63-b5b5-81fc6fd37996
+[18:02:34] [Server thread/INFO]: Nullboy[/[0:0:0:0:0:0:0:1]:43894] logged in with entity id 3665 at ([world]59.55159879528378, 80.0, 271.03097430475606)
+[18:03:26] [Thread-31/INFO]: UUID of player bazingasigma2 is a23ad138-f288-301a-8536-c8bd2e3e07e5
+[18:03:26] [Server thread/INFO]: bazingasigma2[/[0:0:0:0:0:0:0:1]:55322] logged in with entity id 3685 at ([world]54.5, 79.0, 260.5)
+[18:03:56] [Server thread/INFO]: bazingasigma2 lost connection: Login timed out!
+[18:03:56] [Server thread/INFO]: bazingasigma2 left the game.
+[18:03:56] [Server thread/WARN]: handleDisconnection() called twice
+[18:17:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[18:17:19] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[18:17:22] [Server thread/INFO]: [0;33;1m----------[m Help: page 1/6  [0;33;1m--------------------[m[m
+
+[18:17:22] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//: [mToggle the super pickaxe function[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/.s: [mExecute last CraftScript[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/ascend: [mGo up a floor[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/biomeinfo: [mGet the biome of the targeted block.[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/biomelist: [mGets all biomes available.[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/brush: [mBrushing commands[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/butcher: [mKill all or nearby mobs[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//calc: [mEvaluate a mathematical expression[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/ceil: [mGo to the celing[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//center: [mSet the center block(s)[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//chunk: [mSet the selection to your current chunk.[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/chunkinfo: [mGet information about the chunk that you are inside[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/clearclipboard: [mClear your clipboard[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//clearhistory: [mClear your history[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//contract: [mContract the selection area[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//copy: [mCopy the selection to the clipboard[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//count: [mCounts the number of a certain type of block[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m/cs: [mExecute a CraftScript[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//curve: [mDraws a spline through selected points[m
+
+[18:17:22] [Server thread/INFO]: [0;33;22m//cut: [mCut the selection to the clipboard[m
+

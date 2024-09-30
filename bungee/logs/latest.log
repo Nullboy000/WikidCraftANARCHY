@@ -218,3 +218,19 @@
 [17:58:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59328|bi_demi_girl] -> UpstreamBridge has disconnected
 [17:58:26] [Netty Worker IO Thread #2/INFO]: [bi_demi_girl] disconnected with: Proxy lost connection to server.
 [17:58:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59328|bi_demi_girl] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:02:33] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39028|Nullboy] -> UpstreamBridge has disconnected
+[18:02:33] [Netty Worker IO Thread #1/INFO]: [Nullboy] disconnected with: Proxy lost connection to server.
+[18:02:33] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39028|Nullboy] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:02:34] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43714]: Connected via websocket
+[18:02:34] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43714]: Origin header is http://localhost:8081
+[18:02:34] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43714]: Logged in as 'Nullboy'
+[18:02:34] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:43714|Nullboy] -> UpstreamBridge has connected
+[18:02:34] [Netty Worker IO Thread #3/INFO]: [Nullboy|/[0:0:0:0:0:0:0:1%0]:43714] <-> ServerConnector [lobby] has connected
+[18:03:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60080]: Connected via websocket
+[18:03:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60080]: Origin header is http://localhost:8081
+[18:03:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60080]: Logged in as 'bazingasigma2'
+[18:03:26] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60080|bazingasigma2] -> UpstreamBridge has connected
+[18:03:26] [Netty Worker IO Thread #3/INFO]: [bazingasigma2|/[0:0:0:0:0:0:0:1%0]:60080] <-> ServerConnector [lobby] has connected
+[18:03:56] [Netty Worker IO Thread #3/INFO]: [bazingasigma2] disconnected with: Login timed out!
+[18:03:56] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60080|bazingasigma2] -> UpstreamBridge has disconnected
+[18:03:56] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60080|bazingasigma2] <-> DownstreamBridge <-> [lobby] has disconnected
