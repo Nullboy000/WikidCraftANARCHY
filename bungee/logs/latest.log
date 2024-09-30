@@ -234,3 +234,6 @@
 [18:03:56] [Netty Worker IO Thread #3/INFO]: [bazingasigma2] disconnected with: Login timed out!
 [18:03:56] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60080|bazingasigma2] -> UpstreamBridge has disconnected
 [18:03:56] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:60080|bazingasigma2] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:20:10] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:43714|Nullboy] -> UpstreamBridge has disconnected
+[18:20:10] [Netty Worker IO Thread #3/INFO]: [Nullboy] disconnected with: Proxy lost connection to server.
+[18:20:10] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:43714|Nullboy] <-> DownstreamBridge <-> [lobby] has disconnected
